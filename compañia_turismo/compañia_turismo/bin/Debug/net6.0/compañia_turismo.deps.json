@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "compañia_turismo/1.0.0": {
+        "runtime": {
+          "compañia_turismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "compañia_turismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
